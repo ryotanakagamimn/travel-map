@@ -1,3 +1,4 @@
+import "svg-world-map/dist/svg-world-map.css";
 import "./style.css";
 import { svgWorldMap } from "svg-world-map";
 
